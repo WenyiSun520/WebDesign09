@@ -10,7 +10,7 @@ Because this app is created with React (and scaffolded through [Create React App
 cd path/to/problem-a
 
 # install dependencies
-npm install  # only once
+npm install react-router-dom 
 
 # run the server
 npm start
